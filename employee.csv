@@ -1,0 +1,12 @@
+Name,Age,Gender,City,Food,Drinks,Salary,Expense,Hobbies,Position,Laptop,Working Mode
+Alice,25,Female,New York,Pizza,Coffee,90000,7500,Traveling,Software Engineer,Acer,Physical
+Bob,30,Male,Los Angeles,Burger,Tea,40000,3500,Dancing,Graphics Designer,MacBook,Online
+Charlie,35,Male,Chicago,Sushi,Wine,80000,4000,Reading,Database Engineer,Asus,Physical
+David,40,Male,Houston,Tacos,Beer,50000,5500,Hiking,UX Designer,MacBook,Physical
+Luther,32,Male,New York,Pizza,Wine,80000,7000,Traveling,Software Engineer,Asus,Online
+John,28,Male,Los Angeles,Burger,Coffee,60000,4000,Hiking,System Analyst,Dell,Physical
+Danie,30,Female,Chicago,Momo,Beer,60000,4500,Reading,Front Desk,Lenovo,Physical
+Tina,27,Female,Houston,Burger,Wine,40000,2000,Hiking,Graphics Designer,MacBook,Online
+Jack,26,Male,New York,Burger,Beer,70000,5500,Traveling,Cloud Engineer,Acer,Online
+Lina,34,Female,Los Angeles,Momo,Beer,65000,4500,Reading,Software Engineer,Asus,Physical
+Dom,38,Male,New York,Momo,Tea,85000,7800,Dancing,AI Engineer,Asus,Online
